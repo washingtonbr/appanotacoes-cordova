@@ -1,13 +1,13 @@
 {
-    "name": "helloworld",
-    "displayName": "HelloCordova",
+    "name": "appanotacoes",
+    "displayName": "AppAnotações",
     "version": "1.0.0",
-    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "description": "Um simples aplicativo para suas anotações importantes.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Apache Cordova Team",
+    "author": "washingtonbr",
     "license": "Apache-2.0",
     "dependencies": {
         "cordova-browser": "^4.1.0",
